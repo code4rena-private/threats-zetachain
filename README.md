@@ -19,7 +19,7 @@ This repo is intended to be forked by each team participating in ZetaChain's Alp
 - [ ] Add the judge (`0xean`) and the `c4-audit` user to your repo, for oversight
 - [ ] Create a folder within your repo that includes your team name (or team members’ names, with captain's username first, e.g. `horsefacts-bytes032-Trust`). Create an index readme.md file in that folder that outlines the contents of the folder and attributes specific contributions by team members.
 - [ ] Create the [Phase 2 deliverables outlined in the Guidelines](https://docs.google.com/document/d/1s7-giM3kGbIeJv789ooJ8C7hXhoQBkUgOHyYnjDPw6s/edit#heading=h.l62h45szomwz)
-- [ ] At the conclusion of Phase 2, the most recent commit **in your own repo** will be reviewed by the judge and sponsor.
+- [ ] At the conclusion of Phase 2, the most recent commit **in your own repo** will be reviewed by the judge and sponsor. DO NOT share threats back to this repo. 
 
 **Note:** Alpha repos should be made public following the competition; threats repos should be managed with great caution.
 
